@@ -1,0 +1,40 @@
+﻿<Window x:Class="Chat_with_Mediator_Pattern.Views.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chat_with_Mediator_Pattern.Views"
+        mc:Ignorable="d"
+        Title="Chat Group" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="#065a60">
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Text="Nickname :" FontSize="20" HorizontalAlignment="Center"
+                   VerticalAlignment="Center" Foreground="White"/>
+
+        <Border Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" CornerRadius="10" BorderThickness="4" BorderBrush="Red">
+            <TextBox BorderThickness="0" Margin="5" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextWrapping="Wrap" x:Name="TxtBxNickname"
+                     Text="{Binding Nickname, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                     Background="#065a60" Foreground="White"/>
+        </Border>
+
+        <Button Grid.Row="5" Grid.Column="3" Content="Join" Style="{StaticResource SubmitButton}" Command="{Binding JoinCommand}"/>
+
+    </Grid>
+</Window>

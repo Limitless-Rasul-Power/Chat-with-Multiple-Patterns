@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\Chat with Mediator Pattern.exe.config
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\Chat with Mediator Pattern.exe
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\Chat with Mediator Pattern.pdb
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern_MarkupCompile.cache
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern_MarkupCompile.lref
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.g.resources
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat_with_Mediator_Pattern.Properties.Resources.resources
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.exe
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.pdb
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Dictionaries\ButtonsDictionary.baml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Views\StartWindow.g.cs
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\App.baml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Views\StartWindow.baml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Views\GroupView.g.cs
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Views\GroupView.baml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\source\repos\Chat with Mediator Pattern\Chat with Mediator Pattern\obj\Debug\Chat with Mediator Pattern.csproj.CopyComplete
